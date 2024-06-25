@@ -87,6 +87,7 @@ img {
 
 .card__image {
     mix-blend-mode: multiply;
+    filter: contrast(60%) brightness(125%);
     display: block;
 }
 
