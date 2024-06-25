@@ -83,7 +83,7 @@ img {
 .card__header {
     display: block;
     background-color: hsl(277, 64%, 61%);
-    filter: hue-rotate(3deg);
+    filter: hue-rotate(3deg) saturate(110%);
 }
 
 .card__image {
